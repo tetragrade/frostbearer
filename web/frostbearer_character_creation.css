@@ -1,0 +1,150 @@
+html {
+	
+	background-color: #2A2A2C;
+	color: white;
+	
+	font-family: Arial, Helvetica, sans-serif;
+}
+
+body {
+	margin-left:  5%;
+	margin-right: 5%;
+}
+
+a:link {
+	color: lightgray;
+}
+
+a:visited {
+	color: darkgray;
+	text-decoration: wavy;
+}
+
+hr {
+	border: .05rem solid #ffffff33;
+}
+
+.horizontal-flex {
+	display: flex;
+	gap: 5%;
+}
+
+table {
+	background-color: #2A2A2C;
+	border: .1rem solid #ffffff33;
+	margin: auto;
+}
+table, th, td {
+	border-collapse: collapse;
+	padding: .5rem;
+}
+td {
+	border: 0;
+	padding: .75rem;
+}
+
+.table-facets {
+	width: 75%;
+}
+.table-facets > tbody > tr > td {
+	text-align: center;
+}
+
+.flex-fill {
+	width: 100%;
+	
+	text-align: center;
+	justify-content: center;
+
+	box-sizing: border-box;
+	padding: 1rem;
+
+	margin: 0;
+}
+
+.flex-equal {
+	flex: 1;
+}
+
+.theme-emerem {
+	background-color:green;
+	color:white;
+}
+.theme-magisterium {
+	background-color:indigo;
+	color:white;
+}
+
+div > .theme-emerem, div > .theme-magisterium {
+	border: .1rem solid #ffffff33;
+}
+
+#header {
+	text-align: center;
+}
+
+#col-left {
+	max-width: 50%;
+}
+#col-right {
+	max-width: 50%;
+}
+
+#select-nation {
+	display: block;
+}
+.nation-info {
+	padding-left:  5%;
+	padding-right: 5%;
+
+	display: flex;
+	flex-direction: column;
+}
+#select-nation-footer {
+	text-align: center;
+}
+.nation-desc {
+	text-align: justify;
+}
+.nation-features {
+	margin-bottom: auto;
+}
+
+.table-facets > tbody > tr > td,
+.table-facets > thead > tr > th,
+.table-facets > thead > tr > td {
+	
+}
+
+#equipment-header {
+	margin-bottom: 1rem;
+}
+#equipment-rules-recap {
+	align-content: center;
+}
+#equipment-table-banner {
+	display: flex;
+	flex-direction: column;
+	flex-shrink: 0;
+}
+#equipment-table-banner-emerem-only {
+}
+#equipment-table-banner-magisterium-only {
+}
+
+.name-generator {
+	gap: 5%;
+	text-align: center;
+	border: solid white 1px;
+	padding: .5rem;
+	margin-bottom: .5rem;
+}
+.name-generator > p {
+	min-width: fit-content;
+	padding: 0;
+	padding-left: .4rem;
+}
+.name-generator > button {
+	display: inline;
+	height: fit-content;
+}

@@ -1,0 +1,45 @@
+.text-quote {
+	color: #5DD565;
+}
+.text-ignitean {
+	color: orange;
+}
+
+.td-key {
+	text-align: center;
+}
+
+table {
+	margin-left:auto;
+	margin-right:auto;
+	
+	background-color: #2A2A2C;
+	border: .1rem solid #ffffff33;
+}
+table, th, td {
+	border-collapse: collapse;
+	padding: .5rem;
+}
+td {
+	border: 0;
+	padding: .75rem;
+	width: fit-content;
+}
+.theme-emerem {
+	background-color: green;
+	color: white;
+}
+.theme-magisterium {
+	background-color: indigo;
+	color: white;
+}
+
+.theme-frost {
+	background-color: snow;
+	color: black;
+}
+
+.theme-ignitean {
+	background-color: orangered;
+	color: snow;
+}

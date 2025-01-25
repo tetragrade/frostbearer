@@ -6,7 +6,7 @@
 + Private.
 	+ ![[old_oren_fort_with_keys.png]]
 	+ Ideas.
-		+ Boulder trap around area 10, rolls down stairs.
+		+ One room's door blocked from the outside in Fair. But in Frost, a slide curves around the outside into the room.
 		+ Mask maker came to study idol in area 7.
 			+ Old Oren original inventors of masks.
 		+ 
@@ -37,7 +37,7 @@
 	  <tr>
 		  <td>6</td>
 		  <td style="background-color: green; color: white;">TODO</td>
-		  <td style="background-color: snow; color: black;">TODO</td>
+		  <td style="background-color: snow; color: black;">Fell Wind (blows with intelligence, tries to knock someone off, or influence the environment).</td>
 	  </tr>
 	  <tr>
 		  <td>7</td>
@@ -62,15 +62,16 @@
 					+ 30-Something Woman.
 					+ Tired Eyes.
 				+ Private.
-					+ Facets: Cowardly (d6), Paranoid (d6).
-					+ Wants: booze, her letter delivered (see quest), to leave (but is too afraid). 
+					+ Facets: Paranoid (d6), Alcoholic (d4).
+					+ Wants: booze, her letter delivered (see quest), to leave (but believes the Isin will ambush them if they do). 
 					+ #Secrets
 						1. I stole Beken's engagement ring to pawn it for drinking money.
 					+ Believes that Monome (area 8) is an Isin warrior, plotting against them (false).
 					+ Loot.
-						+ Fur Coat (30d R&B).
+						+ Fur Coat (10d R&B).
 						+ Half of Beken's Engagement Ring (cut in two, engraved with his ex's name, 40d R&B).
-						+ Letter to [[Prince Solok]] (<span class="text-quote">"A giant flying canoe crashed in the canopy nearby, the Isin have sent parties there to watch the people on the boat. Also the Isin have raised princely forces and sent them to attack the tigers, and returned with treasure. The Isin knew we were here and sent a party to boast about their victory and threaten us into leaving! All my men but one were cowards and fled."</span>).
+						+ Letter to [[Prince Solok]].
+							+ Oren script: <span class="text-quote">"A giant flying canoe crashed in the canopy nearby, the Isin have sent parties there to watch the people on the boat. Also the Isin have raised princely forces and sent them to attack the tigers, and returned with treasure. The Isin knew we were here and sent a party to boast about their victory and threaten us into leaving! All my men but one were cowards and fled."</span>
 			+ Beken. ^89be91
 				+ Public.
 					+ Young Man (late teens/early 20s).
@@ -95,7 +96,8 @@
 				+ Facets: Bossy (d6, he's a lord), Credulous (d6, he's a ghost).
 				+ #Secrets
 					+ 
-				+ Loot: Old Rider's Sword (d6+2, +d6 vs serpents).
+				+ Loot: Okira is a ghost, so are his possessions. His corpse is in TODO.
+					+ Old Rider's Sword (d6+2, +d6 vs winged things).
 				+ **Old Rider Okira.**<br>HP 24, SV ≤4, AP 12.
 					+ Actions:
 						+ Spectral Sword (d6+2).
@@ -127,9 +129,7 @@
 				+ Smashed Stone Archway (destroyed in single event, scattered rubble).
 				+ Scorched Standing Stone (fell from above to crush the gate, burnt, mossy).
 			+ Private.
-				+ Inscription on Scorched Stone:
-					+ <span class="text-quote">"-great cloud serpent, be obedient and serve, as were your ancestors-"</span>
-					+ In old Oren script.
+				+ Inscription on scorched stone (Oren script:) <span class="text-quote">"-great cloud serpent, be obedient and serve, as were your ancestors-"</span>
 		2. Central Reservation.
 			+ Public.
 				+ Huge Vertical Cylinder (overgrown walls).
@@ -143,10 +143,11 @@
 		3. Common Room.
 			+ Public.
 				+ Two Braziers.
+				+ Scattered Bottles (smell of alcohol, Tokala's trash).
 			+ Private.
 				+ Loot.
 					+ 2 Brass Brazier (10d R&B).
-				+ The braziers are on either side of a secret door to area 14, they are engraved with riddles.
+				+ The braziers are on either side of a secret door to area 14, the inside of each is engraved with a riddle (Oren script).
 					+ Left: <span class="text-quote">""</span>: Sulphur.
 					+ Right: <span class="text-quote">"Black m"</span>: Coal.
 					+ Placing the correct item in each brazier opens the door.
@@ -159,7 +160,10 @@
 					+ Fair: 1-in-2 chance that they're here.
 					+ Frosty: always here.
 				+ Loot.
-					+ 1 Orders (<span class="text-quote">"March up the river to the old fort over the Isin village. Make camp there and watch them for any movements, and send me news of their movements."</span>, signed by [[Prince Solok|prince Emerem Solok]]).
+					+ 1 Orders.
+						+ Oren script: <span class="text-quote">"March up the river to the old fort over the Isin village. Make camp there and watch them for any movements, and send me news of their movements."</span>
+						+ Marked with the [[Emerem]] cylinder seal.
+					+ 3 Bottle of Fruit Brandy.
 					+ 20 Ration Pack.
 		5. Red Flowers.
 			+ Public.
@@ -170,33 +174,75 @@
 			+ Private.
 				+ **Big Red.**
 					+ HP 24, SV never, AP 8, Actions:
-						+ Bite (d8).
+							+ Bite (d8).
 						+ Vine Whip (d4 and knocked supine).
 						+ **Once Only:** Pollen Burst (target must Flesh Save or gain a Heartseed, 4 AP). 
 					+ Loot.
 						+ d6 Small Red Flowers (smell of iron, crafting?).
 						+ Root-Bearing Skull (flowers in eyes, roots throughout).
-						+ Koroki Cylinder Seal (25d R&B to a [[13 - Koroki Village|Koroki]] official).
+						+ Helmet (worth 5d R&B to a [[13 - Koroki Village|Koroki]] warrior, marked with the Nation's symbols).
 				+ Heartseed.
 					+ Your body writhes with red roots under your control. Roll HEARTd4 when a number is needed i.e. damage.
 					+ Gain another Heartseed the first time you commit each of the seven sins. Can only be removed by sacred fire.
 					+ d4 Big Red flowers sprout from you upon death.
 					+ Otherwise functions as Wound, fills 1 Flesh.
-		6. Apes.
+		6. Sealed Room.
 			+ Public.
-				+ Animal Filth (dirt and shit, grasses and sticks, bones and carcasses).
-				+ Vines (cover the wall below the balcony, easy climb down to ground level).
-				+ Frosty:
-					+ Vines Iced Over (black sheet ice, totally unclimbable without tools)
+				+ Stone Door (barred from inside).
+				+ Skeleton (east wall, clutches scroll, shiny ring on finger).
+				+ Pristine Wooden Wall Art (west wall, cursed, see private for description and details of curse).
 			+ Private.
-				+ NPCs.
-					+ 4d6 Snub-Nosed Monkey.
-					+ **Monkey King.**
-						+ HP 15, SV ≤5, AP 8. Actions: Bite (d6).
-						+ Speaks (shrieking, only demands, only monosyllabic words).
-						+ Wants: food, shiny things, obedient monkeys.
-						+ Loot.
-							+ 1 Old Oren Circlet (worth 100d R&B to a prince with ambition).
+				+ In Frosty weather, a slide leads into this room from area 10.
+				+ Wall Art.
+					+ Description.
+						+ The piece is a 2D metal frame (3-ft circumference), with a number of sticks criss-crossing and overlapping inside.
+						+ At each place where the sticks overlap, a stone or similar adornment is held in place by metal clasps.
+							+ The large green stone is engraved with a map of this continent.
+						+  A ring of blue stone (apatite) surrounds the whole thing.
+						+ ![[img/cursed_map.png]]
+					+ It's a map of the divine planes of the Old Oren religion.
+					+ Curse.
+						+ A series of artificial minor planes are contained within the piece's stones. They are connected by doors, as indicated by the map.
+						+ Humans that touch the map are sent to area 2. If the jade is removed, they arrive in area 1 instead. If the ring is detached, the map's magic is suspended.
+						+ If a stone is removed, its doors are magically sealed shut. If opened somehow, beyond is an event horizon.
+						1. Outer Sea.
+							+ Public.
+								+ Thin White Beach.
+								+ Endless Sea (either side).
+								+ Doors (white stone frames, door material matches destination).
+							+ Private.
+								+ The room is non-Euclidean.
+									+ The beach appears straight, but connects end to end in a loop. It's about a mile long.
+									+ Swimming perpendicular from the beach, you'd eventually end up back where you started, on the opposite side. The sea is about 100 miles wide. 
+								+ Doors are placed on the beach where the frame intersects the outer ring. Some areas have multiple doors.
+								+ Loot.
+									+ Just under water, by the 7 O'clock door to Red Spinel.
+										+ 1 Treasure Chest.
+											+ Clockwork Crab (wind it up: acts like a real crab for 10 minutes, worth 60d R&B to a tinkerer).
+						2. Green Jade (earth).
+							+ Public.
+							+ Private.
+						3. White Pearl (pure heaven).
+							+ Public.
+							+ Private.
+						4. Gold Orb (greatest heaven).
+							+ Public.
+							+ Private.
+						5. Bronze Orb (impure worlds).
+							+ Public.
+							+ Private.
+						6. Red Spinel (hell, initially held by monkeys in area 10).
+							+ Public.
+								+ Triangular Dipyramid.
+								+ Four Doors (one at each corner).
+							+ Private.
+					+ Loot.
+						+ 1 Scroll.
+							+ Oren script: <span class="text-quote">"O, father, wise and mighty rider of riders, Okira! My treacherous sandal-bearer Koroki revealed himself as a creature of the outer sea. He has entered into a princely way-of-being, after seizing my rider's staff, and feasting on my brother's flesh and blood. He used my staff's power over beasts to command my serpents, so all my lands lie blazed and broken, I must flee the plateau. Please father, I fear Koroki may march upon your house as he has mine, and I beg that you heed my previous letter. May the serpents guide you."</span>
+							+ The letter is hastily scrawled, and marked with the [[13 - Koroki Village|Koroki]] cylinder seal (because they stole it from this guy).
+							+ This is an accurate account of how the [[13 - Koroki Village|Koroki]] princes acquired their staff, which they claim is a creation of their wise ancestor Koroki Koroki.
+							+ TODO where's the previous letter?
+						+ 1 Ring of Resizing (can shrink or grow, up to the 20-ft circumference, band stays proportional).
 		7. Rider's Fabulous Gallery.
 			+ Public.
 				+ Tiered Balcony Overlooking the Center.
@@ -245,12 +291,34 @@
 				+ Okira's lair.
 					+ Fair: 1-in-2 Okira is here.
 					+ Frosty: he can be sensed in this room: pacing, angry, yearning to be free again. 
-		10. ??? Home.
+		10. Monkeys' Court.
+			+ Public.
+				+ Animal Filth (dirt and shit, grasses and sticks, bones and carcasses).
+				+ Trinkets (glimmering beneath mud and bones)
+				+ Overturned Wooden Bathtub (monkey king's throne).
+				+ Frosty:
+					+ Icy Slide (curves down to area 6).
+			+ Private.
+				+ Loot.
+					+ Scattered Trinkets.
+						+ 1 Red Spinel (40d R&B, 5d R&B to a crystalologer).
+							+ Engraved: <span class="text-quote">"This ruby [sic] is that unregarded place where sinners are melted down."</span>
+							+ Interacts with the cursed map in area 6 (Sealed Room).
+						+ d4 Random [[Emerem#^fd4283|Emerem Trinkets]] (10d R&B).
+				+ NPCs.
+					+ 4d6 Snub-Nosed Monkey.
+					+ **Monkey King.**
+						+ HP 15, SV ≤5, AP 8. Actions: Bite (d6).
+						+ Speaks (shrieking, only demands, only monosyllabic words).
+						+ Wants: food, shiny things, obedient monkeys.
+						+ Loot.
+							+ 1 Old Oren Circlet (iron but beautifully engraved, worth 100d R&B to a prince with ambition).
+						+ Guards the slide and demands a toll. <span class="text-quote">"YOU! Give us shiny! Give us tasty!"</span>
 		11. Tree Home.
 			+ Public.
 				+ Full of Dirt & Grasses.
 				+ Pink Tree (grows out of balcony).
-				+ Door (locked, Kiori in area 12 holds the key).
+				+ Door (locked, Kiorin Kiorin in area 12 holds the key).
 				+ Hole in Wall (carved ladder, leads down to area 12).
 				+ Frosty:
 					+ Tree Treacherously Slippery.
@@ -265,7 +333,7 @@
 				+ North Door (carved ladder leads up to area 11).
 			+ Private.
 				+ Loot.
-					+ 1 Big Jar (pale blue pottery with silver band, 4 Flesh Slots, 80d R&B).
+					+ 1 Big Jar (pale blue pottery with silver band, 4 Flesh Slots, 40d R&B).
 				+ NPCs.
 					+ Fair:
 						+ Kiorin Kiorin sits melted in a big jar, burbling angrily.

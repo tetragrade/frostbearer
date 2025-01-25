@@ -1,7 +1,8 @@
 + Overview.
 	+ Go on a coming-of-age quest to capture a spirit, source of all the masks. Most capture a willing green spirit. Capturing a white spirit is a sign of a warrior's fate.
 + ![[Emerem Annexationists]]
-+ d20 Trinkets.
++ d20 Trinkets. ^fd4283
+	1. 
 + 3d10 Personal Names.
 	+ Start.
 		1. Ko-

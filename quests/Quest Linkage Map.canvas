@@ -18,7 +18,8 @@
 		{"id":"74cadaa97b4cb1d6","type":"text","text":"Fortress of the Frostbearer","x":-1240,"y":-59,"width":280,"height":119},
 		{"id":"de1a906f8bbc36ae","type":"text","text":"Rara  Bronzi","x":-480,"y":-1122,"width":189,"height":127},
 		{"id":"f45796aed8c82c49","type":"file","file":"quests/Quest - Draw Pure Water from the Spirit's Spring.md","x":896,"y":740,"width":400,"height":400},
-		{"id":"be084d4d658139b6","type":"text","text":"12 - Spirit  Lair","x":1443,"y":871,"width":147,"height":139}
+		{"id":"be084d4d658139b6","type":"text","text":"12 - Spirit  Lair","x":1400,"y":1200,"width":147,"height":139},
+		{"id":"3a13106213ad60f9","type":"text","text":"Self-Direction Opportunity.<br>Koroki Compromising Secret","x":1465,"y":1480,"width":325,"height":80}
 	],
 	"edges":[
 		{"id":"15b34433bb4e5355","fromNode":"513cc43d53f39748","fromSide":"left","toNode":"d08623da014c5c61","toSide":"right"},
@@ -39,6 +40,8 @@
 		{"id":"6c7eb7f9427b85ad","fromNode":"d08623da014c5c61","fromSide":"left","toNode":"74cadaa97b4cb1d6","toSide":"right"},
 		{"id":"6b63c7fd039bdf0f","fromNode":"de1a906f8bbc36ae","fromSide":"right","toNode":"a6d347b7813215c4","toSide":"left"},
 		{"id":"970fdc680f1ee0cd","fromNode":"83c6ea8c50452c10","fromSide":"right","toNode":"f45796aed8c82c49","toSide":"top"},
-		{"id":"8830c394cccf664c","fromNode":"f45796aed8c82c49","fromSide":"right","toNode":"be084d4d658139b6","toSide":"left"}
+		{"id":"8830c394cccf664c","fromNode":"f45796aed8c82c49","fromSide":"right","toNode":"be084d4d658139b6","toSide":"left"},
+		{"id":"f9c3a3cd142ab9a0","fromNode":"06201beca32acfe8","fromSide":"bottom","toNode":"3a13106213ad60f9","toSide":"left"},
+		{"id":"fc5c85420c8914c0","fromNode":"3a13106213ad60f9","fromSide":"right","toNode":"4f5cf66baf432d49","toSide":"right"}
 	]
 }

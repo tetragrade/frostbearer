@@ -15,9 +15,9 @@
               "state": {
                 "file": "quests/Quest Linkage Map.canvas",
                 "viewState": {
-                  "x": 734.9157559821201,
-                  "y": 273.72170279062743,
-                  "zoom": -0.666666666666667
+                  "x": 812.8523377080033,
+                  "y": 712.0128296511405,
+                  "zoom": -1.5000000000000004
                 }
               },
               "icon": "lucide-layout-dashboard",
@@ -39,31 +39,34 @@
             }
           },
           {
-            "id": "0aa2a8a5c81d1f0a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "locations/18 - Isin Village.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "18 - Isin Village"
-            }
-          },
-          {
             "id": "0d76300fdb69b3fa",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "locations/10 - Old Oren Fort.md",
+                "file": "Riddle Dump.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "10 - Old Oren Fort"
+              "title": "Riddle Dump"
+            }
+          },
+          {
+            "id": "b162eeb05d6e1281",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "quests/Quest Linkage Map.canvas",
+                "viewState": {
+                  "x": 1331.567507792207,
+                  "y": 718.9361376055707,
+                  "zoom": -0.957373460739986
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "Quest Linkage Map"
             }
           },
           {
@@ -95,7 +98,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -238,22 +241,35 @@
   },
   "active": "0d76300fdb69b3fa",
   "lastOpenFiles": [
-    "Riddle Dump.md",
+    "img/the_fellas.pdn",
+    "img/the_fellas.pdn.0.pdnSave",
+    "New Text Document.txt",
     "locations/10 - Old Oren Fort.md",
-    "npcs/Monster Statblocks.md",
-    "maps/old_oren_fort_with_keys.png",
-    "13 - Koroki Village.md",
-    "maps/hexmap.pdn.0.pdnSave",
-    "quests/Quest Linkage Map.canvas",
+    "Riddle Dump.md",
     "quests/Quest - Draw Pure Water from the Spirit's Spring.md",
+    "quests/Quest Linkage Map.canvas",
+    "img/cursed_map.png.0.pdnSave",
+    "img/cursed_map.pdn.0.pdnSave",
+    "img/cursed_map.png",
+    "img/the_fellas.png",
+    "img/the_bros.png",
+    "img/the_bro.png",
+    "img/cursed_map.pdn",
+    "npcs/Prince Solok.md",
+    "locations/13 - Koroki Village.md",
     "locations/18 - Isin Village.md",
+    "npcs/Monster Statblocks.md",
+    "maps/hexmap_fair.png",
+    "maps/Untitled.canvas",
+    "factions/Emerem.md",
+    "maps/old_oren_fort_with_keys.png",
+    "maps/hexmap.pdn.0.pdnSave",
     "quests/Quest - Deliver Tokala's News.md",
     "img/old_oren_fort.png",
     "locations/The Rainforest & Its Procedures.md",
     "locations/17 - Stern of the Xyzzymandius.md",
     "loot/Sorcerous River Rod.md",
     "loot/Solon's Fang.md",
-    "npcs/Prince Solok.md",
     "Ignitean Complex.md",
     "loot/Cloak of Kanoko the Great Sage of the Canopy.md",
     "locations/4 - The Artistree.md",
@@ -267,24 +283,11 @@
     "quests/Quest - Kokoro is Missing.md",
     "quests/Quest - Fetch Princely Relics.md",
     "quests/Quest - Acquire Ignitean Knowledge.md",
-    "maps/Untitled.canvas",
-    "locations/3 - Emerem Village.md",
-    "loot/Pow Fruit.md",
     "img/monome.pdn",
     "img/monome.pdn.0.pdnSave",
     "img/Untitled.png.0.pdnSave",
     "img/old_oren_fort.png.0.pdnSave",
-    "img/old_oren_fort.pdn.0.pdnSave",
-    "img/isin.pdn.0.pdnSave",
-    "img/isin.pdn",
-    "maps/old_oren_fort.png.0.pdnSave",
-    "maps/old_oren_fort_with_keys.png.0.pdnSave",
     "maps/old_oren_fort.png",
-    "maps/hexmap_frost.png",
-    "maps/hexmap_fair.png",
-    "dungeon_maps/hexmap_frost.png",
-    "dungeon_maps/hexmap_fair.png",
-    "hexmap_fair.png",
-    "hexmap_frost.png"
+    "maps/hexmap_frost.png"
   ]
 }

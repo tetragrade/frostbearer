@@ -8,7 +8,7 @@
 	3. Fountain Pen (d4 dmg).
 	4. Monocle.
 	5. Magisterial Cult Idol (porphyry).
-	6. Lean (mix of alcohol & soothing elixir: remove d6 Stress, gain d2 Wounds).
+	6. Lean (mix of alcohol & soothing elixir: remove d6 Stress, gain d2 Wounds, this bottle was made with a prestigious brand of liquor).
 	7. Lover's Locket (heart shaped, with photo).
 	8. Stereoscope (photo of d4: Wizdon street, fossil dig, fairies, something scandalous).
 	9. Stethoscope.
@@ -48,7 +48,6 @@
 		8. -usc.
 		9. -awil.
 		10. -iam.
-+ d20 Trinkets.
 + d36 Facets.
 	+ Personality.
 		1. Condescending.

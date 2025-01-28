@@ -41,7 +41,7 @@
 	  </tr>
 	  <tr>
 		  <td>7</td>
-		  <td style="background-color: green; color: white;">TODO</td>
+		  <td style="background-color: green; color: white;">d2 Giant Salamander</td>
 		  <td style="background-color: snow; color: black;">TODO</td>
 	  </tr>
 	  <tr>
@@ -60,7 +60,7 @@
 			+ Tokala. ^6e88be
 				+ Public.
 					+ 30-Something Woman.
-					+ Tired Eyes.
+					+ Ruddy Face, Tired Eyes.
 				+ Private.
 					+ Facets: Paranoid (d6), Alcoholic (d4).
 					+ Wants: booze, her letter delivered (see quest), to leave (but believes the Isin will ambush them if they do). 
@@ -113,7 +113,7 @@
 		+ Isin Monome, Mask Maker. ^09e045
 			+ Public.
 				+ White Cloak (covers whole body).
-				+ Green Mask (emoticon <span class="text-quote">: /</span> , big glass eyes).
+				+ Green Mask (emoticon <span class="text-quote">: \</span> , big glass eyes).
 				+ Carving Away (hunched back).
 			+ Private.
 				+ Prefers to talk from the other side of the door, he's very shy.
@@ -147,10 +147,17 @@
 			+ Private.
 				+ Loot.
 					+ 2 Brass Brazier (10d R&B).
-				+ The braziers are on either side of a secret door to area 14, the inside of each is engraved with a riddle (Oren script).
-					+ Left: <span class="text-quote">""</span>: Sulphur.
-					+ Right: <span class="text-quote">"Black m"</span>: Coal.
-					+ Placing the correct item in each brazier opens the door.
+				+ The braziers are the southwest wall, flanking a secret door to area 14, the inside of each is engraved with a riddle (Oren script).
+					+ Left: <span class="text-quote">"Fill my brazier to the brim with me. But beware when I burn, you'll abhor me."</span>: Sulfur.
+						+ Look: blue makes yellow into red
+						+ Taste/Smell: smokes, stinks
+						+ Weight: quite light, but heavier than coal
+						+ Function:
+							+ Alchemical
+							+ fertilizer
+							+ fumigation/pesticide (not in this period)
+					+ Right: <span class="text-quote">" ... I range from cave to canopy. ... "</span>: Coal.
+					+ Burning the correct item in each brazier opens the secret passage, as a section of the wall dissolves into mist. It turns back to stone when the braziers burn out.
 		4. Emerem Warriors' Camp.
 			+ Public.
 				+ Rucksacks & Sleeping Bags.
@@ -180,7 +187,7 @@
 					+ Loot.
 						+ d6 Small Red Flowers (smell of iron, crafting?).
 						+ Root-Bearing Skull (flowers in eyes, roots throughout).
-						+ Helmet (worth 5d R&B to a [[13 - Koroki Village|Koroki]] warrior, marked with the Nation's symbols).
+						+ Helmet (worth 5d R&B to a [[13 - Korokin Village|Korokin]] warrior, marked with the Nation's symbols).
 				+ Heartseed.
 					+ Your body writhes with red roots under your control. Roll HEARTd4 when a number is needed i.e. damage.
 					+ Gain another Heartseed the first time you commit each of the seven sins. Can only be removed by sacred fire.
@@ -190,18 +197,18 @@
 			+ Public.
 				+ Stone Door (barred from inside).
 				+ Skeleton (east wall, clutches scroll, shiny ring on finger).
-				+ Pristine Wooden Wall Art (west wall, cursed, see private for description and details of curse).
+				+ Pristine Wooden Wall Art (west wall, enchanted, see private for description and enchantment details).
 			+ Private.
 				+ In Frosty weather, a slide leads into this room from area 10.
 				+ Wall Art.
 					+ Description.
-						+ The piece is a 2D metal frame (3-ft circumference), with a number of sticks criss-crossing and overlapping inside.
-						+ At each place where the sticks overlap, a stone or similar adornment is held in place by metal clasps.
-							+ The large green stone is engraved with a map of this continent.
-						+  A ring of blue stone (apatite) surrounds the whole thing.
+						+ The piece is a ring of blue stone (apatite, 3-ft circumference), with a number of iron rods criss-crossing and overlapping inside.
+						+ At each place where the rods overlap, an adornment is held in place by metal clasps.
+							+ Green jade, pearl, gold, red spinel, bronze.
+							+ The jade is engraved with a distorted map of this continent.
 						+ ![[img/cursed_map.png]]
 					+ It's a map of the divine planes of the Old Oren religion.
-					+ Curse.
+					+ Magic/Curse.
 						+ A series of artificial minor planes are contained within the piece's stones. They are connected by doors, as indicated by the map.
 						+ Humans that touch the map are sent to area 2. If the jade is removed, they arrive in area 1 instead. If the ring is detached, the map's magic is suspended.
 						+ If a stone is removed, its doors are magically sealed shut. If opened somehow, beyond is an event horizon.
@@ -218,7 +225,8 @@
 								+ Loot.
 									+ Just under water, by the 7 O'clock door to Red Spinel.
 										+ 1 Treasure Chest.
-											+ Clockwork Crab (wind it up: acts like a real crab for 10 minutes, worth 60d R&B to a tinkerer).
+											+ 30 Sack of Silver Coins (1d R&B).
+											+ 1 Clockwork Crab (wind it up: acts like a real crab for 10 minutes, worth 60d R&B to a tinkerer).
 						2. Green Jade (earth).
 							+ Public.
 							+ Private.
@@ -234,13 +242,14 @@
 						6. Red Spinel (hell, initially held by monkeys in area 10).
 							+ Public.
 								+ Triangular Dipyramid.
-								+ Four Doors (one at each corner).
+								+ Four Doors (one at each corner: bronze, jade, 2× blue stone).
+								+ Gravitational Anomaly ("down" is towards the closest floor/wall).
 							+ Private.
 					+ Loot.
 						+ 1 Scroll.
 							+ Oren script: <span class="text-quote">"O, father, wise and mighty rider of riders, Okira! My treacherous sandal-bearer Koroki revealed himself as a creature of the outer sea. He has entered into a princely way-of-being, after seizing my rider's staff, and feasting on my brother's flesh and blood. He used my staff's power over beasts to command my serpents, so all my lands lie blazed and broken, I must flee the plateau. Please father, I fear Koroki may march upon your house as he has mine, and I beg that you heed my previous letter. May the serpents guide you."</span>
-							+ The letter is hastily scrawled, and marked with the [[13 - Koroki Village|Koroki]] cylinder seal (because they stole it from this guy).
-							+ This is an accurate account of how the [[13 - Koroki Village|Koroki]] princes acquired their staff, which they claim is a creation of their wise ancestor Koroki Koroki.
+							+ The letter is hastily scrawled, and marked with the [[13 - Korokin Village|Korokin]] cylinder seal (because they stole it from this guy).
+							+ This is an accurate account of how the [[13 - Korokin Village|Korokin]] princes acquired their staff, which they claim is a creation of their wise ancestor Korokin Koroki.
 							+ TODO where's the previous letter?
 						+ 1 Ring of Resizing (can shrink or grow, up to the 20-ft circumference, band stays proportional).
 		7. Rider's Fabulous Gallery.

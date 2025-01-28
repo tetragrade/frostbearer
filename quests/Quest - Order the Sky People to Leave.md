@@ -1,9 +1,6 @@
 + [[Forward Monome|Prince Monome]] of the [[18 - Isin Village|Isin]] is looking for a neutral party to settle a dispute with the [[17 - Stern of the Xyzzymandius|survivors aboard the Xyzzymandius]].
-+ Here are his demands:<br><span class="text-quote">
-	  Prince of the Sky people, you will now behold the demands of the Wise and Mighty Prince of the Isin Nation!<br>
-	  1. You will send me one sorcerer as a hostage, to teach me the ways of magic.<br>
-	  2. You will fix your boat and fly off immediately. Never return!<br>
-	  3. You will accept my delegates, two of my finest musicians, who will return to your homeland to serve your king.
++ Here are his demands: <span class="text-quote">
+	  "My brother, wise and humble Prince of the Sky People, you will now behold the demands of the mighty and undefeated Prince of the Isin Nation!<br>1. You will send me one sorcerer as a hostage, to teach me the ways of magic.<br>2. You will fix your boat and fly off immediately. Never return!<br>3. You will accept my delegates, two of my finest musicians, who will return to your homeland to serve your king.
 	</span>
 + The Intent:
 	+ Mutual hostage taking is a common political move among the Oren, and this is the usual polite way of phrasing it.
@@ -12,9 +9,7 @@
 + [[Captain Kyrus]] has no understanding nor interest in any of this, and will take these demands as evidence that the Isin are trying to kill them.
 + Reward:
 	+ 1 Favour ([[Forward Monome|Prince Monome]]).
-	+ 1 [[Cloak of Kanoko the Great Sage of the Canopy]] ![[Cloak of Kanoko the Great Sage of the Canopy]]
+	+ 1 [[Cloak of Kanoko the Great Sage of the Canopy]] (custodianship only: you must visit with it each year for a festival, and return it willingly or after your death). ![[Cloak of Kanoko the Great Sage of the Canopy]]
 	+ [[Forward Monome|Prince Monome]] will have a giant statue of you carved into the [[18 - Isin Village|Isin]] hall of heroes.
 
-+ [[Forward Monome|Monome]] is confident the [[Magisterium Magnifica|Magisterials]] will agree, so the reward is just for delivering the letter.
-+ If the demands are refused he'll try to reward characters with a mundane cloak instead (worth 50d R&B), arguing that he misspoke. 
-+ This violates a convention { Princes Must Never Break Their Oaths (d10) }, and is VERY unpopular with his people.
++ [[Forward Monome|Monome]] is confident the [[Magisterium Magnifica|Magisterials]] will agree, so the reward is just for delivering the letter.<br>If the demands are refused he'll try to reward characters with a mundane cloak instead (worth 50d R&B), arguing that he misspoke.<br>This violates a convention { Princes Must Never Break Their Oaths (d10) }, and is VERY unpopular with his people.

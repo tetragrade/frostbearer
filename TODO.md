@@ -1,6 +1,7 @@
 + Misc Monday.
 	+ Isin Tower & Princely Cabin.
 	+ Combat-Free Caves under Artistree. 
+	+ Synoliam's expedition, his secret, his blackmail by [[Captain Kyrus]].
 + #Secrets Central Repository.
 	+ 2 Love/Sex.
 		+ [[Prince Solok]]: [[Frostbearer|The prince apparent]] is not my biological son.

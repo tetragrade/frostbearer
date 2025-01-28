@@ -11,6 +11,11 @@ body {
 	margin-right: 5%;
 }
 
+button {
+	background-color: #2A2A2C;
+	border-radius: 0;
+}
+
 a:link {
 	color: lightgray;
 }
@@ -74,6 +79,10 @@ td {
 	background-color:indigo;
 	color:white;
 }
+.theme-dual {
+	background-image: linear-gradient(to right, green, indigo);
+	color:white;
+}
 
 div > .theme-emerem, div > .theme-magisterium {
 	border: .1rem solid #ffffff33;
@@ -83,11 +92,16 @@ div > .theme-emerem, div > .theme-magisterium {
 	text-align: center;
 }
 
+#header > p {
+	text-align: left;
+	line-height: 1.25rem;
+}
+
 #col-left {
-	max-width: 50%;
+	max-width: 45%;
 }
 #col-right {
-	max-width: 50%;
+	max-width: 55%;
 }
 
 #select-nation {
@@ -116,20 +130,15 @@ div > .theme-emerem, div > .theme-magisterium {
 	
 }
 
-#equipment-header {
-	margin-bottom: 1rem;
+.table-trinkets {
+	display: inline-table;
+	width: 48%;
 }
-#equipment-rules-recap {
-	align-content: center;
+#table-trinkets-emerem {
+	margin-right: 2%;
 }
-#equipment-table-banner {
-	display: flex;
-	flex-direction: column;
-	flex-shrink: 0;
-}
-#equipment-table-banner-emerem-only {
-}
-#equipment-table-banner-magisterium-only {
+#table-trinkets-magisterium {
+	margin-left: 2%;
 }
 
 .name-generator {

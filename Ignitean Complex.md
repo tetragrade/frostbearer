@@ -57,6 +57,9 @@
 	10. 1 Thermo-Cutter (slices any metal up to 1-ft thick, pyrotheum powered: 1 can/cut).
 	11. 1 Burnished Bronze Weapon (2d6).
 	12. 1 Vehement Treatise (small lantern with white flame, inhale to add an Ignitean Knowledge).
++ d? Pyrotheum Canister Nozzles.
+	+ When affixed to a canister, it can be sprayed out to create a djinn, which takes the form described by the nozzle.
+	1. Dog.<br>HP 6, 
 + The Nuclear Djinn.
 	+ Offers one wish, in return for setting it free.
 + The Complex.

@@ -4,7 +4,7 @@
 	+ Most Magisterials are dark-skinned with purple/pink eyes. British RP accent.
 + d20 Trinkets (10d R&B each).
 	1. Birthstone (roll d12 on usual chart).
-	2. First-Class Stamp (profile of magister Mastralus: glowing eyes, enlarged cranium).
+	2. Limited Edition Stamp.
 	3. Fountain Pen (d4 dmg).
 	4. Monocle.
 	5. Magisterial Cult Idol (porphyry).

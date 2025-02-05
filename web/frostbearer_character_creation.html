@@ -1,6 +1,9 @@
 <!DOCTYPE HTML>
 <html>
 	<head>
+		<title>Frostbearer Character Creation</title>
+		<meta charset="UTF-8">
+		
 		<link rel="stylesheet" href="frostbearer_character_creation.css">
 		<script defer src="frostbearer_character_creation.js"></script>
 	</head>
@@ -16,7 +19,7 @@
 				
 				The module is a small but dense hexcrawl, set in a rainforest. An ancient evil has recently awoken, kidnapped the prince, and threatens to end the forest in icy oblivion!
 				<br>
-				Will our brave heroes storm the Fortress of the Frostbearer and defeat the evil? You decide!
+				Will our brave heroes storm the Fortress of the Frostbearer and defeat the evil spirit? You decide!
 				<br>
 				
 				This an extended playtest for my system <a href="https://github.com/tetragrade/veracity-ttrpg">Veracity TTRPG</a>. The gameplay involves OSR dungeon-crawling and faction play,
@@ -36,8 +39,8 @@
 						<div class="nation-info theme-emerem flex-equal">
 							<h3>Emerem</h3>
 							<p class="nation-desc">
-								The Emerem are the most powerful of the rainforest nations. Where the other nations live in union with the spirits, the Emerem subjugate them and treat them like pets.
-								Now, their prince is dying, and his son the prince apparent has been abducted by a mighty spirit of frost. Fate seems grim.
+								The Emerem are the most powerful of the rainforest nations. While the other nations live in union with the spirits, the Emerem refuse and trap them in masks.
+								Now, their greatest captive has escaped, and their prince lies dying. Fate seems grim.
 							</p>
 							
 							<div class="nation-features">
@@ -91,7 +94,7 @@
 						<div class="">
 							<table class="table-facets">
 								<thead>
-									<tr><th>#</th><th colspan=9>Suggested Emerem Facets</th></tr>
+									<tr><th>d6</th><th colspan=9>Suggested Emerem Facets</th></tr>
 
 									<tr class="theme-emerem">
 										<th></th>
@@ -104,11 +107,11 @@
 								<tbody class="theme-emerem">
 									<tr>
 										<th class="td-key">1</th>
-										<td>sullen</td> <td>new oren nationalist</td> <td>farmer</td>  <td>acrobat</td>
+										<td>short fuse</td> <td>new oren nationalist</td> <td>farmer</td>  <td>acrobat</td>
 									</tr>
 									<tr>
 										<th class="td-key">2</th>
-										<td>prideful</td> <td>emerem ultranationalist</td> <td>mask maker</td>  <td>duellist</td>
+										<td>arrogant</td> <td>emerem ultranationalist</td> <td>mask maker</td>  <td>duellist</td>
 									</tr>
 									<tr>
 										<th class="td-key">3</th>
@@ -116,22 +119,22 @@
 									</tr>
 									<tr>
 										<th class="td-key">4</th>
-										<td>empathetic</td> <td>pre-determinist</td> <td>historian</td>  <td>xylophonist</td>
+										<td>brave</td> <td>pacifist</td> <td>spirit trainer</td>  <td>xylophonist</td>
 									</tr>
 									<tr>
 										<th class="td-key">5</th>
-										<td>humble</td> <td>pacifist</td> <td>animal handler</td>  <td>beetle rearer</td>
+										<td>coward</td> <td>vegan</td> <td>animal handler</td>  <td>beetle rearer</td>
 									</tr>
 									<tr>
 										<th class="td-key">6</th>
-										<td>calm</td> <td>vegan</td> <td>spirit trainer</td>  <td>[animal species]<br>hunter</td>
+										<td>calm</td> <td>spirit liberationist</td> <td>hunter</td>  <td>poet</td>
 									</tr>
 								</tbody>
 							</table>
 							<br>
 							<table class="table-facets">
 								<thead>
-									<tr><th>#</th><th colspan=9>Suggested Magisterium Facets</th></tr>
+									<tr><th>d6</th><th colspan=9>Suggested Magisterium Facets</th></tr>
 									
 									<tr class="theme-magisterium">
 										<th></th>
@@ -164,7 +167,7 @@
 									</tr>
 									<tr>
 										<th class="td-key">6</th>
-										<td>studious</td> <td>anarchist</td> <td>alchemist</td>  <td>[animal species]<br>hunter</td>
+										<td>studious</td> <td>anarchist</td> <td>alchemist</td>  <td>hunter</td>
 									</tr>
 								</tbody>
 							</table>
@@ -192,7 +195,11 @@
 			<div id="col-right">
 				<h2>5. Choose starting equipment.</h2>
 				<div id="equipment-header" class="horizontal-flex">
-					<p id="equipment-rules-recap" class="flex-equal">You can take as much as you can carry, items fill one Flesh Slot.</p>
+					<div id="equipment-rules-recap" class="flex-equal">
+						<p>You can take as many items as you can carry, items fill one Flesh Slot.</p>
+						<p>Your character is assumed to be carrying other items as situationally appropriate, and these don't take up slots. these typically include: clothes, a fire-starting kit, a small knife or dagger (d4).</p>
+						<p>If you have a particular item in mind, feel free to suggest it. I'll let you know whether it's appropriate/likely useful.</p>
+					</div>
 					<div id="equipment-table-banner" class="flex-equal">
 						<p id="equipment-table-banner-emerem-only" class="theme-emerem flex-fill flex-equal">Emerem Only</p>
 						<p id="equipment-table-banner-magisterium-only" class="theme-magisterium flex-fill flex-equal">Magisterium Only</p>
@@ -212,23 +219,27 @@
 						</tr>
 						<tr>
 							<td>Mundane Ranged Weapon</td>
-							<td>i.e. bow, crossbow. d6 damage.<br>Range 500-ft, Defenders Save at -10 Dif in melee and confined spaces.</td>
+							<td>i.e. bow, crossbow. d6 damage.<br>Range 500-ft, Defenders Save at -10 Dif if you are engaged in melee, or in a confined space.</td>
 						</tr>
 						<tr>
 							<td>Mundane Armor Piece</td>
-							<td>i.e. helmet, pauldron, bracer, breastplate. grants +4 HP</td>
+							<td>i.e. helmet, pauldron, breastplate, shield. grants +4 HP</td>
 						</tr>
 						<tr>
 							<td>Tool Kit</td>
-							<td>i.e. Thieves' Kit, Blacksmith's Kit, Climbing Kit. Contains any item that you need to perform the named task. Must be specific to a task or skilled profession (so no adventurer's kits).</td>
+							<td>Contains any item that you need to perform the named task.<br>i.e. Lock-Picking Kit, Blacksmith's Kit, Climbing Kit.<br>Using an appropriate tool grants a -5 modifier to Saves.</td>
+						</tr>
+						<tr>
+							<td>Trinket</td>
+							<td>Worth 10 days' Room & Board. Roll on your nation's trinket table (below).</td>
+						</tr>
+						<tr>
+							<td>Bag of Money</td>
+							<td>Worth 1 day's Room & Board.</td>
 						</tr>
 						<tr>
 							<td>Torch</td>
 							<td>40-ft radius. Once lit: 1-in-10 each turn to extinguish.</td>
-						</tr>
-						<tr>
-							<td>Sentimental Trinket</td>
-							<td>Worth 10 days Room & Board. Roll on your nation's trinket table.</td>
 						</tr>
 						<tr class="theme-emerem">
 							<td>Hooded Torchfly Lantern</td>
@@ -271,7 +282,7 @@
 				<div>
 					<table class="table-trinkets" id="table-trinkets-emerem">
 						<thead>
-							<tr><th>d20</th><th>Emerem Trinkets (10d R&B)</th></tr>
+							<tr><th>d12</th><th>Emerem Trinkets (10d R&B)</th></tr>
 						</thead>
 						
 						<tbody class="theme-emerem">
@@ -279,10 +290,54 @@
 								<td class="td-key">1</td>
 								<td></td>
 							</tr>
+							<tr>
+								<td class="td-key">2</td>
+								<td></td>
+							</tr>
+							<tr>
+								<td class="td-key">3</td>
+								<td></td>
+							</tr>
+							<tr>
+								<td class="td-key">4</td>
+								<td>Amber Pommel Dagger (d4 dmg).</td>
+							</tr>
+							<tr>
+								<td class="td-key">5</td>
+								<td></td>
+							</tr>
+							<tr>
+								<td class="td-key">6</td>
+								<td></td>
+							</tr>
+							<tr>
+								<td class="td-key">7</td>
+								<td></td>
+							</tr>
+							<tr>
+								<td class="td-key">8</td>
+								<td></td>
+							</tr>
+							<tr>
+								<td class="td-key">9</td>
+								<td></td>
+							</tr>
+							<tr>
+								<td class="td-key">10</td>
+								<td></td>
+							</tr>
+							<tr>
+								<td class="td-key">11</td>
+								<td></td>
+							</tr>
+							<tr>
+								<td class="td-key">12</td>
+								<td></td>
+							</tr>
 						</tbody>
 					</table><table class="table-trinkets" id="table-trinkets-magisterium"> <!--inserting a newline between these tables adds a <whitespace> element to the HTML??? -->
 						<thead>
-							<tr><th>d20</th><th>Magisterium Trinkets (10d R&B)</th></tr>
+							<tr><th>d12</th><th>Magisterium Trinkets (10d R&B)</th></tr>
 						</thead>
 						
 						<tbody class="theme-magisterium">
@@ -292,7 +347,7 @@
 							</tr>
 							<tr>
 								<td class="td-key">2</td>
-								<td>First-Class Stamp.</td>
+								<td>Limited Edition Stamp (1st class).</td>
 							</tr>
 							<tr>
 								<td class="td-key">3</td>
@@ -328,43 +383,11 @@
 							</tr>
 							<tr>
 								<td class="td-key">11</td>
-								<td>Shocking Newspaper (d3 headlines: dead god excavation, industrial process for philosophers' stones, anarchists overthrow Aletian Empire).</td>
+								<td>Textbook (d3: Medical, Mathematical, Zoological).</td>
 							</tr>
 							<tr>
 								<td class="td-key">12</td>
-								<td></td>
-							</tr>
-							<tr>
-								<td class="td-key">13</td>
-								<td></td>
-							</tr>
-							<tr>
-								<td class="td-key">14</td>
-								<td></td>
-							</tr>
-							<tr>
-								<td class="td-key">15</td>
-								<td></td>
-							</tr>
-							<tr>
-								<td class="td-key">16</td>
-								<td></td>
-							</tr>
-							<tr>
-								<td class="td-key">17</td>
-								<td></td>
-							</tr>
-							<tr>
-								<td class="td-key">18</td>
-								<td></td>
-							</tr>
-							<tr>
-								<td class="td-key">19</td>
-								<td></td>
-							</tr>
-							<tr>
-								<td class="td-key">20</td>
-								<td></td>
+								<td>Pocket Watch.</td>
 							</tr>
 						</tbody>
 					</table>

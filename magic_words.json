@@ -1,194 +1,232 @@
-[
-	"breath",
-	"leap",
-	"lift",
-	"hold",
-	"take",
-	"raise",
-	"lower",
-	"drop",
-	
-	"shatter",
-	"burn",
-	"freeze",
-	"bend",
-	"twist",
-	"cleave",
-	"penetrate",
-	"welt",
-	"scar",
-	
-	"deflect",
-	"evade",
-	"reverse",
-	"overwhelm",
-	
-	"strong",
-	"weak",
-	"sharp",
-	"blunt",
-	
-	"spew",
-	"bleed",
-	"cry",
-	
-	"bile",
-	"pus",
-	"phlegm",
-	"jelly",
-	"flesh",
-	"bone",
-	"skin",
-	
-	"head",
-	"nose",
-	"mouth",
-	"lip",
-	"teeth",
-	"tongue",
-	"eye",
-	"hair",
-	"arm",
-	"hand",
-	"leg",
-	"foot",
-	"torso",
-	"groin",
-	
-	"salt",
-	"amethyst",
-	"diamond",
-	"ruby",
-	"sapphire",
-	"emerald",
-	"pearl",
-	
-	"mercury",
-	"gold",
-	"iron",
-	"cobalt",
-	"tin",
-	"copper",
-	"bronze",
-	
-	"granite",
-	"marble",
-	
-	"wood",
-	"cherry",
-	"ebony",
-	
-	"sulfur"
-	
-	
-	
-	"soul",
-	"spirit",
-	
-	"see",
-	"hear",
-	"smell",
-	"taste",
-	"tact",
-	"thought",
-	"imagine",
-	"agony",
-	"pleasure",
-	"madness",
-
-	"desire",
-	"obey",
-	"command",
-	
-	"envy",
-	"gluttony",
-	"lust"
-	"pride",
-	"greed",
-	"sadness",
-	"sloth",
-	"wrath",
-	
-	"brave",
-	"kind",
-	
-	
-	
-	"bird",
-	"fish",
-	"lizard",
-	"serpent",
-	
-	"bear",
-	"cat",
-	"crocodile",
-	"dog",
-	"dolphin",
-	"frog",
-	"horse",
-	"lion",
-	"monkey",
-	"shark",
-	"toucan"
-	
-	"dragon",
-	"griffin",
-	"troll",
-	
-	
-	
-	"fire",
-	"water",
-	"earth",
-	"air",
-	"wind",
-	"aether",
-	"ice",
-	"acid",
-	"bubblegum",
-	
-	"orb",
-	"ring",
-	"rod",
-	"disc",
-	"plane",
-	"cube",
-	"hexagon",
-	"orbit",
-	
-	"red",
-	"orange",
-	"yellow",
-	"green",
-	"blue",
-	"indigo",
-	"violet",
-	
-	"heat",
-	"temperature",
-	"cold",
-	
-	"light",
-	"twilight",
-	"dark",
-	"nothing",
-	
-	"yield",
-	"cause",
-	
-	
-
-	"ghoul",
-	"skeleton",
-	"demon",
-	
-	"rot",
-	"fungus",
-	
-	"vermin",
-	"swarm",
-	"locust",
-	
-	"sick",
-	"wither"
-]
+{
+	"damage": [
+		"shatter",
+		"burn",
+		"freeze",
+		"bend",
+		"twist",
+		"cleave",
+		"penetrate",
+		"welt",
+		"scar"
+	],
+	"abjure": [
+		"deflect",
+		"evade",
+		"reverse",
+		"overwhelm",
+		"avoid"
+	],
+	"physical_property": [
+		"strong",
+		"weak",
+		"sharp",
+		"blunt"
+	],
+	"upper": [
+		"soul",
+		"spirit"
+	],
+	"mental": [
+		"see",
+		"hear",
+		"smell",
+		"taste",
+		"tact",
+		"thought",
+		"imagine",
+		"agony",
+		"pleasure",
+		"madness"
+	]
+	"body_part": [
+		"bile",
+		"pus",
+		"phlegm",
+		"jelly",
+		"flesh",
+		"bone",
+		"skin",
+		
+		"head",
+		"nose",
+		"mouth",
+		"lip",
+		"teeth",
+		"tongue",
+		"eye",
+		"hair",
+		"arm",
+		"hand",
+		"leg",
+		"foot",
+		"torso",
+		"groin"
+	],
+	"body_action": [
+		"breath",
+		"leap",
+		"lift",
+		"hold",
+		"take",
+		"raise",
+		"lower",
+		"drop",	
+		"spew",
+		"bleed",
+		"cry"
+	],
+	"mineral": [
+		"amethyst",
+		"diamond",
+		"ruby",
+		"sapphire",
+		"emerald",
+		"pearl",
+		
+		"mercury",
+		"gold",
+		"iron",
+		"cobalt",
+		"tin",
+		"copper",
+		"bronze",
+		
+		"granite",
+		"marble",
+		
+		"sulfur",
+		"salt"
+	],
+	"control": [
+		"desire",
+		"obey",
+		"command"
+	],
+	"sin": [
+		"envy",
+		"gluttony",
+		"lust"
+		"pride",
+		"greed",
+		"sadness",
+		"sloth",
+		"wrath"
+	],
+	"virtue": [
+		"brave",
+		"kind"
+	],
+	"animal_real": [
+		"bird",
+		"fish",
+		"lizard",
+		"serpent",
+		
+		"bear",
+		"cat",
+		"cow",
+		"crocodile",
+		"dog",
+		"dolphin",
+		"flamingo",
+		"frog",
+		"giraffe"
+		"horse",
+		"lion",
+		"monkey",
+		"pig",
+		"shark",
+		"sheep",
+		"snail",
+		"tiger",
+		"toucan",
+		"zebra",
+		"kangaroo"
+	],
+	"animal_fantasy": [
+		"dragon",
+		"griffin",
+		"troll"
+	],
+	"plant_real": [
+		"wood",
+		"cherry",
+		"ebony",
+		
+		"leaf",
+		"sap",
+		"bark",
+		
+		"fruit",
+		"cabbage",
+		"apple",
+		"banana",
+		"mango"
+	],
+	"element": [
+		"fire",
+		"water",
+		"earth",
+		"air",
+		"wind",
+		"aether",
+		"ice",
+		"acid",
+		"bubblegum"
+	],
+	"shape": [
+		"orb",
+		"ring",
+		"rod",
+		"disc",
+		"plane",
+		"cube",
+		"hexagon",
+		"orbit",
+		"curl",
+		"straight",
+		"reverse",
+		"bend",
+		"overlap"
+	],
+	"color": [
+		"red",
+		"orange",
+		"yellow",
+		"green",
+		"blue",
+		"indigo",
+		"violet"
+	],
+	"energy": [
+		"heat",
+		"temperature",
+		"cold",
+		
+		"light",
+		"twilight",
+		"dark",
+		"nothing"
+	],
+	"semantic_relation": [
+		"yield",
+		"cause"
+	],
+	"outsider": [
+		"ghoul",
+		"skeleton",
+		"demon"
+	],
+	"downer": [
+		"rot",
+		"fungus",
+		
+		"vermin",
+		"swarm",
+		"locust",
+		
+		"sick",
+		"wither"
+	]
+}

@@ -55,8 +55,8 @@
 		+ ![[Quest - Fetch Princely Relics]]
 		+ ![[Quest - Deliver Tokala's News]]
 	+ NPCs.
-		+ Tokala & Beken, **Emerem Warriors.**
-			+ Recently, the prince sent these **Emerem Warriors** to keep watch on the nearby Isin Nation ([[18 - Isin Village]]). They came here with others, but they all fled.
+		+ Tokala & Beken, **[[Monster Statblocks#^32f2a6|Emerem Warriors]]**.
+			+ Recently, the prince sent these **[[Monster Statblocks#^32f2a6|Emerem Warriors]]** to keep watch on the nearby Isin Nation ([[18 - Isin Village]]). They came here with others, but they all fled.
 			+ Tokala. ^6e88be
 				+ Public.
 					+ 30-Something Woman.
@@ -96,14 +96,22 @@
 				+ Facets: Bossy (d6, he's a lord), Credulous (d6, he's a ghost).
 				+ #Secrets
 					+ 
-				+ Loot: Okira is a ghost, so are his possessions. His corpse is in TODO.
-					+ Old Rider's Sword (d6+2, +d6 vs winged things).
-				+ **Old Rider Okira.**<br>HP 24, SV ≤4, AP 12.
+				+ Loot (he's a ghost, and so are his possessions. His corpse is in TODO):
+					1. Old Rider's Sword (d6+2, +d6 vs winged things).
+					2. Breastplate (+4 HP).
+					3. Pauldron (+4 HP).
+					4. Pauldron (+4 HP).
+					5. Wound (dragon bite).
+					6. Bag of Coins (1d R&B).
+					7. Bag of Coins (1d R&B).
+					8. Great Dragon Diamond (1000d R&B).
+					+ TODO move allat to the corpse when done, just putting it here temporarily.
+				+ **Old Rider Okira.**<br>HP 24, Flesh 4/12, Light 4/4.
 					+ Actions:
-						+ Spectral Sword (d6+2).
+						+ Spectral Sword (d6+2, +d6 vs winged things).
 						+ Summon Wyvern (somewhere behind Okira, 1/scene).
 					+ Features:
-						+ -10 Dif on Saves vs non-cursed weapons. 
+						+ -10 Dif on Saves vs non-cursed weapons.
 				+ **Okira's Wyvern.** Horse-sized, winged, rabid snapping teeth, scales like iron.<br>HP 40, SV ≤2, AP 12.
 					+ Actions:
 						+ Bite (d10+2).
@@ -202,7 +210,7 @@
 				+ In Frosty weather, a slide leads into this room from area 10.
 				+ Wall Art.
 					+ Description.
-						+ The piece is a ring of blue stone (apatite, 3-ft circumference), with a number of iron rods criss-crossing and overlapping inside.
+						+ The piece is a ring of blue stone (apatite, 3-ft diameter), with a number of iron rods criss-crossing and overlapping inside.
 						+ At each place where the rods overlap, an adornment is held in place by metal clasps.
 							+ Green jade, pearl, gold, red spinel, bronze.
 							+ The jade is engraved with a distorted map of this continent.
@@ -251,7 +259,7 @@
 							+ The letter is hastily scrawled, and marked with the [[13 - Korokin Village|Korokin]] cylinder seal (because they stole it from this guy).
 							+ This is an accurate account of how the [[13 - Korokin Village|Korokin]] princes acquired their staff, which they claim is a creation of their wise ancestor Korokin Koroki.
 							+ TODO where's the previous letter?
-						+ 1 Ring of Resizing (can shrink or grow, up to the 20-ft circumference, band stays proportional).
+						+ 1 Ring of Resizing (can shrink or grow, up to the 20-ft diameter, band stays proportional).
 		7. Rider's Fabulous Gallery.
 			+ Public.
 				+ Tiered Balcony Overlooking the Center.
@@ -306,7 +314,7 @@
 				+ Trinkets (glimmering beneath mud and bones)
 				+ Overturned Wooden Bathtub (monkey king's throne).
 				+ Frosty:
-					+ Icy Slide (curves down to area 6).
+					+ Icy Slide (curves around outside, down to area 6).
 			+ Private.
 				+ Loot.
 					+ Scattered Trinkets.

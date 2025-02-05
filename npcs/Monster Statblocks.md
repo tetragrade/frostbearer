@@ -2,7 +2,7 @@
 + **Crocodile.**<br>HP 20, SV ≤4 (≤8 in water), MV 40, AP 8. Actions:
 	+ Bite (d12+2).
 	+ Death Roll (can only target characters that are horizontal/laying down, add d6 Wounds).
-+ **Emerem Warrior.**<br>HP 12, SV ≤3, MV 20, AP 8. Actions:
++ **Emerem Warrior.**<br>HP 8, Flesh 4/8, Light 4/4. Actions: ^32f2a6
 	+ Sword/Spear (d6).
 	+ Bow (d6, range 500-ft, +10 Dif in melee and confined spaces).
 + **Giant Arapaima.**<br>HP 12, SV ≤6, MV 40, AP 8. Actions: Bite (d6+2).

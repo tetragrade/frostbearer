@@ -9,5 +9,4 @@
 		+ The Bronzi king pled peace, and sent an outrageous pile of riches.
 		+ They've arranged to marry the king's son to Monome's sister.
 		+ F-Mon agreed because his advisors told him it was the right move politically (ends conflict & infertile couple can't produce claimants).
-	+ But actually! The "Fake" Monome is the real prince, the two were switched at birth.
 + Isin princes are typically sorcerers with the power to levitate stone (but it sometimes skips a generation). True Monome thought it skipped him, Fake Monome has this power but doesn't know it.

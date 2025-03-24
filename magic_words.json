@@ -15,7 +15,8 @@
 		"evade",
 		"reverse",
 		"overwhelm",
-		"avoid"
+		"avoid",
+		"oppose"
 	],
 	"physical_property": [
 		"strong",
@@ -38,7 +39,7 @@
 		"agony",
 		"pleasure",
 		"madness"
-	]
+	],
 	"body_part": [
 		"bile",
 		"pus",
@@ -106,7 +107,7 @@
 	"sin": [
 		"envy",
 		"gluttony",
-		"lust"
+		"lust",
 		"pride",
 		"greed",
 		"sadness",
@@ -131,7 +132,7 @@
 		"dolphin",
 		"flamingo",
 		"frog",
-		"giraffe"
+		"giraffe",
 		"horse",
 		"lion",
 		"monkey",
@@ -190,6 +191,30 @@
 		"bend",
 		"overlap"
 	],
+	"place": [
+		"near",
+		"far",
+		
+		"home",
+		"foreign",
+		
+		"land",
+		"realm",
+		"world",
+		
+		"mountain",
+		"volcano",
+		"sea",
+		"abyss",
+		"ocean",
+		"lake",
+		"forest",
+		"jungle",
+		"plain",
+		"steppe",
+		"waste",
+		"desert"
+	],
 	"color": [
 		"red",
 		"orange",
@@ -211,12 +236,15 @@
 	],
 	"semantic_relation": [
 		"yield",
-		"cause"
+		"cause",
+		"opposite",
+		"similar"
 	],
 	"outsider": [
 		"ghoul",
 		"skeleton",
-		"demon"
+		"demon",
+		"elemental"
 	],
 	"downer": [
 		"rot",

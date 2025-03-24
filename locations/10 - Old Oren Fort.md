@@ -98,9 +98,9 @@
 					+ 
 				+ Loot (he's a ghost, and so are his possessions. His corpse is in TODO):
 					1. Old Rider's Sword (d6+2, +d6 vs winged things).
-					2. Breastplate (+4 HP).
-					3. Pauldron (+4 HP).
-					4. Pauldron (+4 HP).
+					2. Breastplate.
+					3. Pauldron.
+					4. Pauldron.
 					5. Wound (dragon bite).
 					6. Bag of Coins (1d R&B).
 					7. Bag of Coins (1d R&B).

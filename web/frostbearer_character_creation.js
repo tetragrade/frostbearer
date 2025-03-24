@@ -1,4 +1,4 @@
-Array.prototype.sample = function() { return this[Math.floor(this.length*Math.random())]; }
+Array.prototype.choice = function() { return this[Math.floor(this.length*Math.random())]; }
 
 let EMEREM_NAME_DISPLAY = document.getElementById("emerem-name-generator-display");
 let EMEREM_NAME_START = [
@@ -44,7 +44,7 @@ let EMEREM_NAME_END = [
 let EMEREM_FAMILY_NAME = [
 	"Emerem"
 ];
-let EmeremName = () => EMEREM_FAMILY_NAME.sample() + " " + EMEREM_NAME_START.sample() + EMEREM_NAME_MIDDLE.sample() + EMEREM_NAME_END.sample();
+let EmeremName = () => EMEREM_FAMILY_NAME.choice() + " " + EMEREM_NAME_START.choice() + EMEREM_NAME_MIDDLE.choice() + EMEREM_NAME_END.choice();
 let DisplayEmeremName = () => EMEREM_NAME_DISPLAY.textContent = EmeremName();
 DisplayEmeremName();
 document.getElementById("emerem-name-generator-button").addEventListener("click", DisplayEmeremName);
@@ -94,74 +94,74 @@ function MagisteriumFamilyName(alliteratesWith) {
 				"Auldmagister",
 				"Arbleworth",
 				"Ainslet"
-			].sample();
+			].choice();
 		case 'E':
 			return [
 				"Emwise",
 				"Ellfenekille",
 				"Electran",
 				"Everrclair"
-			].sample();
+			].choice();
 		case 'H':
 			return [
 				"Hirdelwort",
 				"Harrelywarn",
 				"Hollowint",
 				"Hellryser"
-			].sample();
+			].choice();
 		case 'K':
 			return [
 				"Kemwise",
 				"Kotteren",
 				"Krookelly",
 				"Koalkin"
-			].sample();
+			].choice();
 		case 'O':
 			return [
 				"Oldmagister",
 				"Oftwipped",
 				"Ollican",
 				"Omencant"
-			].sample();
+			].choice();
 		case 'P':
 			return [
 				"Portelkeen",
 				"Poggerbail",
 				"Pardeep",
 				"Pyrplepool"
-			].sample();
+			].choice();
 		case 'R':
 			return [
 				"Railwright",
 				"Ronderly",
 				"Raddemage",
 				"Rubek"
-			].sample();
+			].choice();
 		case 'X':
 			return [
 				"Xorbee",
 				"Xaptite",
 				"Xhinderbritte",
 				"Xincey"
-			].sample();
+			].choice();
 		case 'Y':
 			return [
 				"Yammer",
 				"Yaelterly",
 				"Yemerian",
 				"Yonderholde"
-			].sample();
+			].choice();
 		case 'Z':
 			return [
 				"Zarbee",
 				"Zymallimite",
 				"Zhellwinder",
 				"Zorkesh"
-			].sample();
+			].choice();
 	}
 }
 function MagisteriumName() {
-	let PERSONAL_NAME = MAGISTERIUM_NAME_START.sample() + MAGISTERIUM_NAME_MIDDLE.sample() + MAGISTERIUM_NAME_END.sample();
+	let PERSONAL_NAME = MAGISTERIUM_NAME_START.choice() + MAGISTERIUM_NAME_MIDDLE.choice() + MAGISTERIUM_NAME_END.choice();
 	return PERSONAL_NAME + " " + MagisteriumFamilyName(PERSONAL_NAME[0]);
 }
 let DisplayMagisteriumName = () => MAGISTERIUM_NAME_DISPLAY.textContent = MagisteriumName();
